@@ -48,7 +48,7 @@ flowchart TD
     T["Operational tickets\nSource of Truth"] --> C
     G["Governance actions\nSource of Truth"] --> C
     E["Evidence store\nSource of Truth"] --> C
-    C --> D["Case state\nAttention / Ready / Closed"]
+    C --> D["Case state\nAttention / Closed"]
 ```
 
 The control plane stores references and derives status. It does not become the master record for incidents, tickets, approvals or evidence.
