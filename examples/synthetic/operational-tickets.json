@@ -1,0 +1,18 @@
+[
+  {
+    "id": "OPS-001",
+    "incident_id": "INC-001",
+    "title": "Revoke session and review account access",
+    "status": "closed",
+    "owner": "service-operations",
+    "source_system": "itsm"
+  },
+  {
+    "id": "OPS-002",
+    "incident_id": "INC-002",
+    "title": "Restore approved endpoint policy",
+    "status": "closed",
+    "owner": "endpoint-operations",
+    "source_system": "itsm"
+  }
+]

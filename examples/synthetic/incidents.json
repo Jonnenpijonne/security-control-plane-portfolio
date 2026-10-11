@@ -1,0 +1,24 @@
+[
+  {
+    "id": "INC-001",
+    "title": "Suspicious sign-in investigation",
+    "technical_status": "closed",
+    "severity": "medium",
+    "owner": "security-operations",
+    "source_system": "incident-register",
+    "operational_ticket_ids": ["OPS-001"],
+    "governance_action_ids": ["GOV-001"],
+    "evidence_ids": ["EVD-001", "EVD-002"]
+  },
+  {
+    "id": "INC-002",
+    "title": "Endpoint configuration deviation",
+    "technical_status": "closed",
+    "severity": "low",
+    "owner": "security-operations",
+    "source_system": "incident-register",
+    "operational_ticket_ids": ["OPS-002"],
+    "governance_action_ids": ["GOV-002"],
+    "evidence_ids": ["EVD-003"]
+  }
+]

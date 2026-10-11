@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GOV-001",
+    "incident_id": "INC-001",
+    "type": "privacy-assessment",
+    "status": "open",
+    "owner": "privacy-owner",
+    "required_evidence_ids": ["EVD-002"],
+    "source_system": "governance-workflow"
+  },
+  {
+    "id": "GOV-002",
+    "incident_id": "INC-002",
+    "type": "corrective-action-review",
+    "status": "closed",
+    "owner": "security-owner",
+    "required_evidence_ids": ["EVD-003"],
+    "source_system": "governance-workflow"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "EVD-001",
+    "incident_id": "INC-001",
+    "type": "technical-resolution-record",
+    "status": "verified",
+    "owner": "service-operations",
+    "source_system": "evidence-store"
+  },
+  {
+    "id": "EVD-002",
+    "incident_id": "INC-001",
+    "type": "privacy-assessment-record",
+    "status": "required",
+    "owner": "privacy-owner",
+    "source_system": "evidence-store"
+  },
+  {
+    "id": "EVD-003",
+    "incident_id": "INC-002",
+    "type": "corrective-action-verification",
+    "status": "verified",
+    "owner": "security-owner",
+    "source_system": "evidence-store"
+  }
+]
